@@ -21,5 +21,4 @@ function startTimer(duration) {
     }, duration * 1000)
 }
 
-
-startTimer(2100)
+startTimer(20)
